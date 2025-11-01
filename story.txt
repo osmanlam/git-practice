@@ -33,4 +33,8 @@ Moral:In life, things happen around us, things happen to us, but the only thing 
 
 Which one are you?
 
+<<<<<<< Updated upstream
 here is the new end line
+=======
+here is the new ending line
+>>>>>>> Stashed changes
